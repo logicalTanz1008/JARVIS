@@ -1,0 +1,13 @@
+{
+	"open instagram": "openWeb('https://instagram.com'); Speak('Opening Enstagram...')",
+	"open whatsapp": "openWeb('https://web.whatsapp.com'); Speak('Opening Whatsapp...')",
+	"open gmail": "openWeb('https://mail.google.com'); Speak('Opening Gmail')",
+	"open youtube": "openWeb('https://youtube.com'); Speak('Opening YouTube')",
+	"open mail": "openWeb('https://mail.google.com'); Speak('Opening Gmail')",
+	"open death run": "openWeb('https://www.y8.com/games/death_run_3d'); Speak('Opening Death Run')",
+	"open stack overflow": "openWeb('https://stackoverflow.com'); Speak('Opening Stack Overflow')",
+	"timer": "setTimer(UserText);",
+	"hello": "hello();",
+	"time": "getCurrentTime();",
+	"weather": "getWeatherDetails();"
+}
